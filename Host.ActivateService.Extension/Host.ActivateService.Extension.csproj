@@ -8,6 +8,7 @@
     <PackageProjectUrl>https://github.com/waxtell/Host.ActivateService.Extension</PackageProjectUrl>
     <RepositoryUrl>https://github.com/waxtell/Host.ActivateService.Extension.git</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
